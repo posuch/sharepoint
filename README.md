@@ -1,4 +1,4 @@
-# sharepoint moitoring
+# sharepoint monitoring
 
 attempt to create sharepoint basic monitoring with LLD rule and performance counters
 
@@ -17,7 +17,7 @@ AppFabric Caching Service (AppFabricCachingService)
 World Wide Web Publishing Service (W3SVC)
 IIS Admin Service ( IISADMIN )
     
-**IIS service perfoimace metrics**
+**IIS service performance metrics**
 
 various performace metrics for IIS service ( template t_microsoft iis performace counters ) 
    
