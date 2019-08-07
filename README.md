@@ -18,6 +18,18 @@ SharePoint VSS Writer (SPWriterV4),
 AppFabric Caching Service (AppFabricCachingService),
 World Wide Web Publishing Service (W3SVC),
 IIS Admin Service ( IISADMIN ),
+
+**monitoring of sharepoint performance metrics**
+
+\SharePoint Foundation(_Total)\Sql Query Executing time /
+\SharePoint Foundation(_Total)\Executing Sql Queries /
+\SharePoint Foundation(_Total)\Responded Page Requests Rate /
+\SharePoint Foundation(_Total)\Executing Time/Page Request /
+\SharePoint Foundation(_Total)\Current Page Requests /
+\SharePoint Foundation(_Total)\Reject Page Requests Rate /
+\SharePoint Foundation(_Total)\Incoming Page Requests Rate /
+\SharePoint Foundation(_Total)\Active Threads /
+
     
 **IIS service performance metrics**
 
