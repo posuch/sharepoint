@@ -17,7 +17,7 @@ SharePoint User Code Host (SPUserCodeV4),
 SharePoint VSS Writer (SPWriterV4),
 AppFabric Caching Service (AppFabricCachingService),
 World Wide Web Publishing Service (W3SVC),
-IIS Admin Service ( IISADMIN ),
+IIS Admin Service ( IISADMIN )
 
 **monitoring of sharepoint performance metrics**
 
