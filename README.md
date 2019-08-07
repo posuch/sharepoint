@@ -1,7 +1,5 @@
 # sharepoint monitoring
 
-attempt to create sharepoint basic monitoring with LLD rule and performance counters
-
 **monitoring of sharepoint services**
 
 template t_sharepoint_2013_monitoring.xml
