@@ -4,6 +4,8 @@ attempt to create sharepoint basic monitoring with LLD rule and performance coun
 
 **monitoring of sharepoint services**
 
+template t_sharepoint_2013_monitoring.xml
+
 Document Conversions Launcher for Microsoft SharePoint Server 2013 (DCLauncher15),
 Document Conversions Load Balancer for Microsoft SharePoint Server 2013 (DCLoadBalancer15),
 SharePoint Server Search 15 (OSearch15),
@@ -19,6 +21,6 @@ IIS Admin Service ( IISADMIN ),
     
 **IIS service performance metrics**
 
-various performace metrics for IIS service ( template t_microsoft iis performace counters ) 
+various performace metrics for IIS service ( template t_microsoft iis performace counters.xml ) 
    
 
