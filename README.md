@@ -1,5 +1,8 @@
 # sharepoint monitoring
 
+monitoring interval for metrics is 5min
+
+
 **monitoring of sharepoint services**
 
 template t_sharepoint_2013_monitoring.xml
